@@ -1,4 +1,4 @@
-# 🚀 RAG MapReduce Chatbot
+# 🚀 RAG Chatbot
 
 A **Retrieval-Augmented Generation (RAG) based chatbot** that answers questions from custom documents using **LLMs + FAISS + RAGAS evaluation**.
 
