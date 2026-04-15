@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# FAISS index (large files)
+data/faiss_index/
+
+# Ignore test files
+test_*.py
+
+# Env files
+.env
+
+# OS / misc
+.DS_Store
+.streamlit/
